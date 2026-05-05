@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "746bcf4ada7b5734",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a320173435d6f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72191f50180aaa2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "速成乐理.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "速成乐理"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dad2bcee517c8f94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b7d669c80a2ba68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "速成乐理.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "速成乐理"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9accac8702177a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "98ad05687742f4ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bdbf62d5af850de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "74a7eca017abf5c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "37191838438e9e86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc630abdceb6f80e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f296503363393cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72a5bd1cc22deafa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "速成乐理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "速成乐理 的反向链接列表"
+            }
+          },
+          {
+            "id": "0aa7099e4ed4928d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "速成乐理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "速成乐理 的出链列表"
+            }
+          },
+          {
+            "id": "d535679560dd5f39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "df21370166b86fdc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ccd164b940873ca5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "速成乐理.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "速成乐理 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "72191f50180aaa2f",
+  "lastOpenFiles": [
+    "速成乐理.md",
+    "未命名 1.base",
+    "未命名 2.base",
+    "未命名.base"
+  ]
+}
