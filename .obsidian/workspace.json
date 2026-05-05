@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "速通乐理的知识点.md",
+                "file": "乐理知识点速成.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "速通乐理的知识点"
+              "title": "乐理知识点速成"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "速通乐理的知识点.md",
+                "file": "乐理知识点速成.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "速通乐理的知识点"
+              "title": "乐理知识点速成"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fc630abdceb6f80e",
@@ -205,7 +206,9 @@
   },
   "active": "72191f50180aaa2f",
   "lastOpenFiles": [
-    "速通乐理的知识点.md",
+    "未命名 4.base",
+    "未命名 3.base",
+    "乐理知识点速成.md",
     "未命名 1.base",
     "未命名 2.base",
     "未命名.base"
