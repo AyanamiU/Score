@@ -1,7 +1,9 @@
 {
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "readableLineLength": true,
   "autoPairMarkdown": false,
-  "vimMode": true,
-  "livePreview": false
+  "vimMode": false,
+  "livePreview": false,
+  "showLineNumber": true,
+  "spellcheck": false
 }

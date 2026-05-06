@@ -1,3 +1,6 @@
 {
-  "showViewHeader": true
+  "showViewHeader": true,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "theme": "moonstone"
 }

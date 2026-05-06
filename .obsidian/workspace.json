@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "dad2bcee517c8f94",
+        "id": "0ab75492ecb3cc97",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7d669c80a2ba68",
+            "id": "087bd7a84d451560",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "速成乐理.md",
+                "file": "乐理知识点速成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "速成乐理 的反向链接列表"
+              "title": "乐理知识点速成 的反向链接列表"
             }
           },
           {
@@ -204,11 +204,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "72191f50180aaa2f",
+  "active": "087bd7a84d451560",
   "lastOpenFiles": [
+    "未命名 6.base",
+    "未命名 5.base",
+    "乐理知识点速成.md",
     "未命名 4.base",
     "未命名 3.base",
-    "乐理知识点速成.md",
     "未命名 1.base",
     "未命名 2.base",
     "未命名.base"
