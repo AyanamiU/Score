@@ -14,26 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "乐理知识点速成.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "乐理知识点速成"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0ab75492ecb3cc97",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "087bd7a84d451560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "乐理知识点速成.md",
                 "mode": "preview",
                 "source": true
               },
@@ -204,15 +184,19 @@
       "bases:新建数据库": false
     }
   },
-  "active": "087bd7a84d451560",
+  "active": "72191f50180aaa2f",
   "lastOpenFiles": [
-    "未命名 6.base",
-    "未命名 5.base",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名 10.base",
+    "未命名 9.base",
+    "未命名 8.base",
+    "未命名 7.base",
     "乐理知识点速成.md",
     "未命名 4.base",
     "未命名 3.base",
-    "未命名 1.base",
-    "未命名 2.base",
-    "未命名.base"
+    "未命名 6.base",
+    "未命名 5.base",
+    "未命名 2.base"
   ]
 }

@@ -2,7 +2,7 @@
   "showInlineTitle": false,
   "readableLineLength": true,
   "autoPairMarkdown": false,
-  "vimMode": false,
+  "vimMode": true,
   "livePreview": false,
   "showLineNumber": true,
   "spellcheck": false
